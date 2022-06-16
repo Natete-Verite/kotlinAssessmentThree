@@ -24,6 +24,8 @@ class CalculateActivity : AppCompatActivity() {
         setContentView(R.layout.activity_calculate)
         tilFirstNumber = findViewById(R.id.tilFirstNumber)
         tilSecondNumber = findViewById(R.id.tilSecondNumber)
+        etFirstNumber = findViewById(R.id.etFirstNumber)
+        etSecondNumber = findViewById(R.id.etFirstNumber)
         btnAdd = findViewById(R.id.btnAdd)
         btnSubtract = findViewById(R.id.btnSubtract)
         btnModulus = findViewById(R.id.btnModulus)
