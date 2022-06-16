@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculatorAssessment</string>
+    <string name="first_number_required">First number required</string>
+    <string name="second_number_required">Second number is required</string>
+    <string name="first_number_is_required">first number is required</string>
+    <string name="second_number_is_required">second number is required</string>
+</resources>
